@@ -1,3 +1,7 @@
+/**
+ * Ch4 - 25. 사용자로부터 숫자를 입력받아, 이 숫자의 각 자라의 합을 구하는 예제
+ */
+
 import java.util.Scanner;
 
 public class FlowEx25 {

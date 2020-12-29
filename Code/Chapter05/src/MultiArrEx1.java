@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class ArrayEx20 {
+public class MultiArrEx1 {
     public static void main(String[] args) {
         final int SIZE = 10;
         int x=0, y=0;
